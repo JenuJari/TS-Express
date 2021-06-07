@@ -1,0 +1,1 @@
+{"version":3,"file":"webRoot.js","sourceRoot":"","sources":["../../src/routes/webRoot.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAC9B,MAAM,MAAM,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAEhC,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,CAAC,CAAC,EAAE,GAAG,EAAE,EAAE;IACzB,GAAG,CAAC,IAAI,CAAC,aAAa,CAAC,CAAC;AAC1B,CAAC,CAAC,CAAC;AAEH,kBAAe,MAAM,CAAC"}
